@@ -1,6 +1,4 @@
-# Binance Clone
-
-This project was created with [Create React App](https://github.com/facebook/create-react-app).
+# Mobile Binance Clone
 
 ## Getting Started
 
@@ -14,18 +12,18 @@ To run this project locally, follow these steps:
    git clone https://github.com/funofbfmv/binance-mobile-clone.git
 Navigate to the project directory:
 
-cd binance-mobile-clone
-Install dependencies:
+2. cd binance-mobile-clone
+**Install dependencies:**
 
-npm install
+**npm install**
 Running the Application
 To start the application in development mode, run:
 
-npm start
+**npm start**
 Open http://localhost:3000 to view it in your browser. The page will reload when you make changes.
 
 Building the Application
 To build the application for production, run:
 
-npm run build
+**npm run build**
 This will create an optimized production build in the build folder.
